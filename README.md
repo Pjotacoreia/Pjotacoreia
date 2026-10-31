@@ -27,3 +27,7 @@ Estudo de orientação a objetos em Java: encapsulamento, construtores e membros
 ---
 
 Novos projetos de IA serão publicados aqui.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/joaopedrosilvaribeiro)
